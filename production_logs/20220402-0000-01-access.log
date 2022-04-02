@@ -1,0 +1,9 @@
+[0mGET / [32m200[0m 115.376 ms - 3881[0m
+[0mGET /favicon.ico [33m404[0m 7.616 ms - 150[0m
+[0mGET / [36m304[0m 54.460 ms - -[0m
+[0mGET /users/sign-in [36m304[0m 6.534 ms - -[0m
+[0mPOST /users/create-session [36m302[0m 9.016 ms - 46[0m
+[0mGET / [32m200[0m 46.306 ms - 5675[0m
+[0mPOST /posts/create [32m200[0m 18.568 ms - 241[0m
+[0mGET / [32m200[0m 35.271 ms - 6574[0m
+[0mPOST /likes/toggle/?id=62471435cc0a51f3ddcd21bf&type=Post [32m200[0m 15.534 ms - 58[0m
